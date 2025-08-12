@@ -24,34 +24,43 @@
 
 ---
 
-## 📚 Academic Highlights
+## 🚀 Highlighted Projects  
 
-- 🎯 **Weighted Average:** 75%  
-- 🏆 **Distinctions:** 25/27 subjects so far  
-- 💬 **Tutoring Team Member** — helping peers understand programming and computer science concepts  
-
----
-
-## 🌟 Current Focus
-
-- 📌 Advancing skills in **full-stack development** & **software architecture**  
-- 🤝 Collaborating on **international, multi-disciplinary projects**  
-- 🌐 Open to **Hybrid** and **Remote** software engineering opportunities  
+- **[Campus Tutoring Portal](https://github.com/yourusername/project1)** – A C# ASP.NET web app helping students book and manage tutoring sessions.  
+- **[Smart Health Tracker](https://github.com/yourusername/project2)** – Java-based health monitoring application with real-time data visualizations.  
+- **[Global Minor Travel App](https://github.com/yourusername/project3)** – TypeScript mobile app for itinerary tracking and group collaboration during the Global Minor program.  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Competencies  
 
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+- Full-Stack Development (Frontend & Backend)  
+- Software Architecture & Design Patterns  
+- API Development & Integration  
+- Agile / Scrum Methodologies  
+- Problem Solving & Debugging  
+- Team Collaboration & Peer Tutoring  
+
+---
+
+## 🏅 Key Achievements  
+
+- Selected for **Global Minor Project** – representing Belgium Campus across multiple European universities (Sept–Dec 2025)  
+- Achieved **25/27 subject distinctions** in Bachelor of Computing (Software Engineering)  
+- Maintained a **75% weighted academic average** while actively tutoring peers in programming and computer science  
+
+---
+
+## 📚 Certifications & Learning  
+
+*(Add any completed or in-progress certifications here, e.g., Microsoft Azure, AWS Cloud Practitioner, freeCodeCamp, etc.)*
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-jacobs-572b46329/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcojacobs040323@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
 ---
-
 The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one - Maxi Contieri
