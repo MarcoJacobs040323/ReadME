@@ -32,22 +32,22 @@ It highlights my progress, practical experience, and core skills in C#, Java, Py
 
 ## 🚀 Highlighted Projects  
 
-Here are some of my best and most representative projects:  
+Here are some of my most representative academic projects:  
 
--  [Tutor Appointment System](https://github.com/MarcoJacobs040323/Tutor-appointment-booking-system---Java)
--  — A complete appointment scheduling system built with Java Swing, featuring CRUD operations, validation, and database integration.  
+### [Tutor Appointment Booking System (Java)](https://github.com/YourUsername/tutor-appointment-system)  
+A complete system for managing and scheduling tutoring appointments efficiently. Built with **Java Swing**, featuring CRUD operations, validation, and database integration.  
 
-- [Campus Administration System](https://github.com/MarcoJacobs040323/Campus-Administartion-System---C-Sharp)
--  A C# desktop application designed for managing campus operations, showcasing CRUD functionality, validation, and database interaction.  
+### [Campus Administration System (C#)](https://github.com/YourUsername/campus-administration-system)  
+A **C# desktop application** designed to streamline campus operations. Demonstrates CRUD functionality, input validation, and integration with a relational database.  
 
-- [Machine Learning Project 1](https://github.com/MarcoJacobs040323/Machine-Learning-1---Python)
-— Explorations into ML models and algorithms with Python. 
+### [Machine Learning Project 1(Python)](https://github.com/YourUsername/machine-learning)  
+A collection of hands-on ML implementations in **Python**, covering supervised and unsupervised learning, model training, and evaluation.  
 
-- [Machine Learning Project 2](https://github.com/MarcoJacobs040323/Machine-Learning-2---Python)
-- In depth hands-on ML implementations in Python, covering supervised and unsupervised learning, model training, and evaluation.  
+### [Machine Learning Projec 2(Python)](https://github.com/YourUsername/machine-learning)  
+A collection of hands-on ML implementations in **Python**, covering supervised and unsupervised learning, model training, and evaluation. 
 
-- [Community Blog Website](https://github.com/MarcoJacobs040323/Events-handler-website---Typescript)
-- A dynamic DOM-based project showcasing event-driven programming and data rendering.  
+### [Events Handler Website (TypeScript)](https://github.com/YourUsername/events-handler-website)  
+A **TypeScript-based web application** demonstrating dynamic DOM querying, event-driven programming, and data rendering to showcase modern frontend practices.  
 
 ---
 
