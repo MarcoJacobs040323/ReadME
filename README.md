@@ -40,7 +40,7 @@ A complete system for managing and scheduling tutoring appointments efficiently.
 ### [Campus Administration System (C#)](https://github.com/MarcoJacobs040323/Campus-Administartion-System---C-Sharp)  
 A **C# desktop application** designed to streamline campus operations. Demonstrates CRUD functionality, input validation, and integration with a relational database.  
 
-### [Machine Learning Project 1(Python)](https://github.com/YourUsername/machine-learning)  
+### [Machine Learning Project 1(Python)](https://github.com/MarcoJacobs040323/Machine-Learning-1---Python)  
 A collection of hands-on ML implementations in **Python**, covering supervised and unsupervised learning, model training, and evaluation.  
 
 ### [Machine Learning Projec 2(Python)](https://github.com/YourUsername/machine-learning)  
