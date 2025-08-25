@@ -7,6 +7,10 @@
 💡 Passionate about creating **innovative**, **efficient**, and **user-friendly** software solutions.  
 🌍 **Upcoming Adventure:** From **6 Sept – 22 Dec 2025**, I’ll be traveling across Europe for the **Global Minor Project** — attending classes, collaborating with international teams, and building impactful projects with partner universities.
 
+
+## 🎓 About This Repository  
+This repository serves as a **public portfolio** of the projects I completed throughout my studies in Software Engineering at Belgium Campus ITVersity.  
+It highlights my progress, practical experience, and the skills I’ve developed in **C#, Java, Python, TypeScript, and more**.
 ---
 
 ## 🛠 Tech Stack
