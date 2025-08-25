@@ -34,7 +34,7 @@ It highlights my progress, practical experience, and core skills in C#, Java, Py
 
 Here are some of my most representative academic projects:  
 
-### [Tutor Appointment Booking System (Java)](https://github.com/YourUsername/tutor-appointment-system)  
+### [Tutor Appointment Booking System (Java)](https://github.com/MarcoJacobs040323/Tutor-appointment-booking-system---Java)  
 A complete system for managing and scheduling tutoring appointments efficiently. Built with **Java Swing**, featuring CRUD operations, validation, and database integration.  
 
 ### [Campus Administration System (C#)](https://github.com/YourUsername/campus-administration-system)  
@@ -46,7 +46,7 @@ A collection of hands-on ML implementations in **Python**, covering supervised a
 ### [Machine Learning Projec 2(Python)](https://github.com/YourUsername/machine-learning)  
 A collection of hands-on ML implementations in **Python**, covering supervised and unsupervised learning, model training, and evaluation. 
 
-### [Events Handler Website (TypeScript)](https://github.com/YourUsername/events-handler-website)  
+### [Events Handler Website (TypeScript)](https://github.com/MarcoJacobs040323/Events-handler-website---Typescript)  
 A **TypeScript-based web application** demonstrating dynamic DOM querying, event-driven programming, and data rendering to showcase modern frontend practices.  
 
 ---
