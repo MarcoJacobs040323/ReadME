@@ -34,17 +34,20 @@ It highlights my progress, practical experience, and core skills in C#, Java, Py
 
 Here are some of my best and most representative projects:  
 
-- **Tutor Appointment Booking System (Java)**  
-  A system for managing and scheduling tutoring appointments efficiently, built with Java and database integration.  
+-  [Tutor Appointment System](https://github.com/MarcoJacobs040323/Tutor-appointment-booking-system---Java)
+-  — A complete appointment scheduling system built with Java Swing, featuring CRUD operations, validation, and database integration.  
 
-- **Campus Administration System (C#)**  
-  A C# desktop application designed for managing campus operations, showcasing CRUD functionality, validation, and database interaction.  
+- [Campus Administration System](https://github.com/MarcoJacobs040323/Campus-Administartion-System---C-Sharp)
+-  A C# desktop application designed for managing campus operations, showcasing CRUD functionality, validation, and database interaction.  
 
-- **Machine Learning Projects (Python)**  
-  Hands-on ML implementations in Python, covering supervised and unsupervised learning, model training, and evaluation.  
+- [Machine Learning Project 1](https://github.com/MarcoJacobs040323/Machine-Learning-1---Python)
+— Explorations into ML models and algorithms with Python. 
 
-- **Events Handler Website (TypeScript)**  
-  A TypeScript-based web application for managing and tracking events with modern frontend practices.  
+- [Machine Learning Project 2](https://github.com/MarcoJacobs040323/Machine-Learning-2---Python)
+- In depth hands-on ML implementations in Python, covering supervised and unsupervised learning, model training, and evaluation.  
+
+- [Community Blog Website](https://github.com/MarcoJacobs040323/Events-handler-website---Typescript)
+- A dynamic DOM-based project showcasing event-driven programming and data rendering.  
 
 ---
 
