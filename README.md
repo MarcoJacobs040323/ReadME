@@ -43,7 +43,7 @@ A **C# desktop application** designed to streamline campus operations. Demonstra
 ### [Machine Learning Project 1(Python)](https://github.com/MarcoJacobs040323/Machine-Learning-1---Python)  
 A collection of hands-on ML implementations in **Python**, covering supervised and unsupervised learning, model training, and evaluation.  
 
-### [Machine Learning Projec 2(Python)](https://github.com/YourUsername/machine-learning)  
+### [Machine Learning Projec 2(Python)](https://github.com/MarcoJacobs040323/Machine-Learning-2---Python)  
 A collection of hands-on ML implementations in **Python**, covering supervised and unsupervised learning, model training, and evaluation. 
 
 ### [Events Handler Website (TypeScript)](https://github.com/MarcoJacobs040323/Events-handler-website---Typescript)  
