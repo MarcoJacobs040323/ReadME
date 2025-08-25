@@ -37,7 +37,7 @@ Here are some of my most representative academic projects:
 ### [Tutor Appointment Booking System (Java)](https://github.com/MarcoJacobs040323/Tutor-appointment-booking-system---Java)  
 A complete system for managing and scheduling tutoring appointments efficiently. Built with **Java Swing**, featuring CRUD operations, validation, and database integration.  
 
-### [Campus Administration System (C#)](https://github.com/YourUsername/campus-administration-system)  
+### [Campus Administration System (C#)](https://github.com/MarcoJacobs040323/Campus-Administartion-System---C-Sharp)  
 A **C# desktop application** designed to streamline campus operations. Demonstrates CRUD functionality, input validation, and integration with a relational database.  
 
 ### [Machine Learning Project 1(Python)](https://github.com/YourUsername/machine-learning)  
